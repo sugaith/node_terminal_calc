@@ -1,11 +1,12 @@
 {
   "name": "NodeCalculator",
   "version": "1.0.0",
-  "description": "",
+  "nodeVersion": "16.17.0",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
   },
   "author": "sugaith",
   "license": "ISC",
